@@ -39,7 +39,7 @@ My research interest includes medical image analysis, machine learning and deep 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JID 2023</div><img src='images/JID2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JID 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Single-cell and Spatial Transcriptomic Analysis of Human Skin Delineates Intercellular Communication and Pathogenic Cells](https://ieeexplore.ieee.org/document/8760405)
