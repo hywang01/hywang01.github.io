@@ -42,13 +42,13 @@ My research interest includes medical image analysis, machine learning and deep 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021-2023* Innovation Foundation for Doctor Dissertation of Northwestern Polytechnical University (Key projects).
-- *2015-2022* Northwestern Polytechnical University First-Class Academic Scholarship.
-- *2020* CETC Scholarship. 
-- *2019* China Scholarship Council (CSC) Scholarships. 
-- *2017* Northwestern Polytechnical University Excellent Bachelor’s Thesis.
+- *2021-2023*: Innovation Foundation for Doctor Dissertation of Northwestern Polytechnical University (Key projects).
+- *2015-2022*: Northwestern Polytechnical University First-Class Academic Scholarship.
+- *2020*: CETC Scholarship. 
+- *2019*: China Scholarship Council (CSC) Scholarships. 
+- *2017*: Northwestern Polytechnical University Excellent Bachelor’s Thesis.
 
-# 📖 Educations
+# 🎓 Educations
 - *2021.07 - 2022.04: Visiting Student & Associate Researcher*, Department of Dermatology, Icahn School of Medicine at Mount Sinai. 
 - *2020.01 - 2021.06: Visiting Student*, Department of Radiation Oncology, Stanford University School of Medicine. 
 - *2017.09 - Present: Ph.D. Candidate*, School of Computer Science and Engineering, Northwestern Polytechnical University. 
@@ -61,7 +61,7 @@ My research interest includes medical image analysis, machine learning and deep 
 [//]: # 💻 Internships
 [//]: - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-# Academic Activities
+# 📚 Academic Activities
 - Conference Reviews
 	- MICCAI 2019-2023
 
