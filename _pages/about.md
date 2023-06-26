@@ -27,7 +27,7 @@ My research interest includes medical image analysis, machine learning and deep 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-JBHI 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Thorax-Net: An Attention Regularized Deep Neural Network for Classification of Thoracic Diseases on Chest Radiography](https://ieeexplore.ieee.org/document/8760405)
@@ -38,6 +38,12 @@ My research interest includes medical image analysis, machine learning and deep 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JID 2023</div><img src='images/JID2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Single-cell and Spatial Transcriptomic Analysis of Human Skin Delineates Intercellular Communication and Pathogenic Cells](https://ieeexplore.ieee.org/document/8760405)
+Thrane K*, Winge MCG*, **Wang H**, Chen L, Guo MG, Andersson A, Abalo XM, Yang X, Kim DS, Longo SK, Soong BY, Meyers JM, Reynolds DL, McGeever A, Demircioglu D, Hasson D, Mirzazadeh R, Rubin AJ, Bae GH, Karkanias J, Rieger K, Lundeberg J, Ji AL.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
