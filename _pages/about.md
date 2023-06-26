@@ -42,19 +42,23 @@ My research interest includes medical image analysis, machine learning and deep 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015-2022* NPU First-Class Academic Scholarship.
+- *2020* CETC Scholarship. 
+- *2019* China Scholarship Council (CSC) Scholarships. 
+- *2017* NPU Excellent Bachelor’s Thesis.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.07 - 2022.04: Visiting Student & Associate Researcher*, Department of Dermatology, Icahn School of Medicine at Mount Sinai. 
+- *2020.01 - 2021.06: Visiting Student*, Department of Radiation Oncology, Stanford University School of Medicine. 
+- *2017.09 - Present: Ph.D. Candidate*, School of Computer Science and Engineering, Northwestern Polytechnical University. 
+- *2013.09 - 2017.06: B.S. Degree*, School of Mathematics and Statistics, Northwestern Polytechnical University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[//]: # 💬 Invited Talks
+[//]: - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[//]: - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+[//]: # 💻 Internships
+[//]: - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # Academic Activities
 - Conference Reviews
@@ -63,5 +67,5 @@ My research interest includes medical image analysis, machine learning and deep 
 - Journal Reviews
 	- Medical Image Analysis (MEDIA)
 	- IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI)
-	- Frontiers in Oncology
 	- Biomedical Signal Processing and Control
+	- Frontiers in Oncology
