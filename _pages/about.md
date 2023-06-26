@@ -44,6 +44,8 @@ My research interest includes medical image analysis, machine learning and deep 
 
 [Single-cell and Spatial Transcriptomic Analysis of Human Skin Delineates Intercellular Communication and Pathogenic Cells](https://ieeexplore.ieee.org/document/8760405)
 Thrane K*, Winge MCG*, **Wang H**, Chen L, Guo MG, Andersson A, Abalo XM, Yang X, Kim DS, Longo SK, Soong BY, Meyers JM, Reynolds DL, McGeever A, Demircioglu D, Hasson D, Mirzazadeh R, Rubin AJ, Bae GH, Karkanias J, Rieger K, Lundeberg J, Ji AL.
+</div>
+</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
