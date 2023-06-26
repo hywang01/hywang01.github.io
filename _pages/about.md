@@ -60,7 +60,8 @@ My research interest includes medical image analysis, machine learning and deep 
 - Conference Reviews
 	- MICCAI 2019-2023
 
-Journal Reviews
+- Journal Reviews
 	- Medical Image Analysis (MEDIA)
 	- IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI)
 	- Frontiers in Oncology
+	- Biomedical Signal Processing and Control
