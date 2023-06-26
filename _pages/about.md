@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hongyu Wang
-
 My name is Hongyu Wang, now a Ph.D. student at School of Computer Science and Engineering, Northwestern Polytechnical University under the supervision of Prof. Yong Xia. I graduated from School of Mathematics and Statistics, Northwestern Polytechnical University with a bachelor’s degree of science.
 
 My research interest includes medical image analysis, machine learning and deep learning for radiological imaging, computational histopathology, and single-cell and spatial multi-omic. I enjoy studying medical and biological problems with efficient-computational methods.
@@ -57,3 +55,12 @@ My research interest includes medical image analysis, machine learning and deep 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# Academic Activities
+- Conference Reviews
+	- MICCAI 2019-2023
+
+Journal Reviews
+	- Medical Image Analysis (MEDIA)
+	- IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI)
+	- Frontiers in Oncology
