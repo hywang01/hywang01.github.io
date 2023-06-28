@@ -70,12 +70,12 @@ Yuming Jiang, Zhicheng Zhang, Qingyu Yuan, Wei Wang, **Hongyu Wang**, Tuanjie Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JID 2023</div><div align="center"><img src='images/JID2023.png' alt="sym" width="100%" align="middle"></div></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Single-cell and Spatial Transcriptomic Analysis of Human Skin Delineates Intercellular Communication and Pathogenic Cells](https://ieeexplore.ieee.org/document/8760405)
-Thrane K*, Winge MCG*, **Wang H**, Chen L, Guo MG, Andersson A, Abalo XM, Yang X, Kim DS, Longo SK, Soong BY, Meyers JM, Reynolds DL, McGeever A, Demircioglu D, Hasson D, Mirzazadeh R, Rubin AJ, Bae GH, Karkanias J, Rieger K, Lundeberg J, Ji AL.
+[Single-cell and Spatial Transcriptomic Analysis of Human Skin Delineates Intercellular Communication and Pathogenic Cells](https://www.jidonline.org/article/S0022-202X(23)02040-7/fulltext)
+Kim Thrane, Mårten C G Winge, **Hongyu Wang**, Larry Chen, Margaret G Guo, Alma Andersson, Xesús M Abalo, Xue Yang, Daniel S Kim, Sophia K Longo, Brian Y Soong, Jordan M Meyers, David L Reynolds, Aaron McGeever, Deniz Demircioglu, Dan Hasson, Reza Mirzazadeh, Adam J Rubin, Gordon H Bae, Jim Karkanias, Kerri Rieger, Joakim Lundeberg, Andrew L Ji 
 </div>
 </div>
 
-- [Robust Stochastic Neural Ensemble Learning with Noisy Labels for Thoracic Disease Classification], **Hongyu Wang**, Hengfei Cui and Yong Xia, **IEEE-TMI 2023, major revision**
+- [Robust Stochastic Neural Ensemble Learning with Noisy Labels for Thoracic Disease Classification](https://github.com/hywang01/SNEL), **Hongyu Wang**, Hengfei Cui and Yong Xia, **IEEE-TMI 2023, major revision**
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
