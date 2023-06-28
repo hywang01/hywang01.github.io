@@ -33,11 +33,39 @@ My research interest includes medical image analysis, machine learning and deep 
 [Thorax-Net: An Attention Regularized Deep Neural Network for Classification of Thoracic Diseases on Chest Radiography](https://ieeexplore.ieee.org/document/8760405)
 
 **Hongyu Wang**, Haozhe Jia, Le Lu, Yong Xia
+</div>
+</div>
 
-[//]: [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[//]: - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEDIA 2021</div><img src='images/A3Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Triple Attention Learning for Classification of 14 Thoracic Diseases Using Chest Radiograph](https://www.sciencedirect.com/science/article/abs/pii/S1361841520302103)
+
+**Hongyu Wang**, Shanshan Wang, Zibo Qin, Yanning Zhang, Ruijiang Li, and Yong Xia
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lancet Digital Health 2022</div><img src='images/LancetDH.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Predicting peritoneal recurrence and disease-free survival from CT images in gastric cancer with multitask deep learning: a retrospective study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00040-1/fulltext)
+
+Yuming Jiang, Zhicheng Zhang, Qingyu Yuan, Wei Wang, **Hongyu Wang**, Tuanjie Li, Weicai Huang, Jingjing Xie, Chuanli Chen, Zepang Sun, Jiang Yu, Yikai Xu, George A Poultsides, Lei Xing, Zhiwei Zhou, Guoxin Li, Ruijiang Li
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC 2023</div><img src='images/DELCOM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Domain-ensemble learning with cross-domain mixup for thoracic disease classification in unseen domains](https://www.sciencedirect.com/science/article/abs/pii/S1746809422009429)
+
+**Hongyu Wang**, Yong Xia
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JID 2023</div><div align="center"><img src='images/JID2023.png' alt="sym" width="100%" align="middle"></div></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,6 +74,8 @@ My research interest includes medical image analysis, machine learning and deep 
 Thrane K*, Winge MCG*, **Wang H**, Chen L, Guo MG, Andersson A, Abalo XM, Yang X, Kim DS, Longo SK, Soong BY, Meyers JM, Reynolds DL, McGeever A, Demircioglu D, Hasson D, Mirzazadeh R, Rubin AJ, Bae GH, Karkanias J, Rieger K, Lundeberg J, Ji AL.
 </div>
 </div>
+
+- [Robust Stochastic Neural Ensemble Learning with Noisy Labels for Thoracic Disease Classification], **Hongyu Wang**, Hengfei Cui and Yong Xia, **IEEE-TMI 2023, major revision**
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
