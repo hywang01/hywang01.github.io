@@ -47,7 +47,7 @@ My research interest includes medical image analysis, machine learning and deep 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lancet Digital Health 2022</div><img src='images/LancetDH.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lancet Digital Health 2022</div><img src='images/LancetDH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Predicting peritoneal recurrence and disease-free survival from CT images in gastric cancer with multitask deep learning: a retrospective study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00040-1/fulltext)
