@@ -60,7 +60,7 @@ Yuming Jiang, Zhicheng Zhang, Qingyu Yuan, Wei Wang, **Hongyu Wang**, Tuanjie Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC 2023</div><img src='images/DELCOM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Domain-ensemble learning with cross-domain mixup for thoracic disease classification in unseen domains](https://www.sciencedirect.com/science/article/abs/pii/S1746809422009429)
+[Domain-ensemble learning with cross-domain mixup for thoracic disease classification in unseen domains](https://www.sciencedirect.com/science/article/abs/pii/S1746809422009429) [**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
 
 **Hongyu Wang**, Yong Xia
 </div>
