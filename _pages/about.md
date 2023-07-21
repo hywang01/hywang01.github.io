@@ -78,6 +78,15 @@ Kim Thrane, Mårten C G Winge, **Hongyu Wang**, Larry Chen, Margaret G Guo, Alma
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Medicine 2023</div><img src='images/Cell_RM_cover.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Non-invasive tumor microenvironment evaluation and treatment response prediction using deep learning radiomi](https://www.cell.com/Cell-Reports-Medicine/home)
+
+Yuming Jiang, Kangneng Zhou, Zepang Sun, **Hongyu Wang**, Jingjing Xie, Taojun Zhang, Shengtian Sang, Md Tauhidul Islam, Chuanli Chen, Qingyu Yuan, Sujuan Xi, Tuanjie Li, Yikai Xu, Wenjun Xiong, Wei Wang, Guoxin Li, Ruijiang Li
+</div>
+</div>
+
 - [Robust Stochastic Neural Ensemble Learning with Noisy Labels for Thoracic Disease Classification](https://github.com/hywang01/SNEL), **Hongyu Wang**, Hengfei Cui and Yong Xia, **IEEE-TMI 2023, major revision**
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
