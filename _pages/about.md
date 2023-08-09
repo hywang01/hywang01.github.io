@@ -81,7 +81,7 @@ Kim Thrane, Mårten C G Winge, **Hongyu Wang**, Larry Chen, Margaret G Guo, Alma
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Medicine 2023</div><img src='images/Cell_RM_cover.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Non-invasive tumor microenvironment evaluation and treatment response prediction using deep learning radiomi](https://www.cell.com/Cell-Reports-Medicine/home)
+[Non-invasive tumor microenvironment evaluation and treatment response prediction in gastric cancer using deep learning radiomics](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00299-9)
 
 Yuming Jiang, Kangneng Zhou, Zepang Sun, **Hongyu Wang**, Jingjing Xie, Taojun Zhang, Shengtian Sang, Md Tauhidul Islam, Chuanli Chen, Qingyu Yuan, Sujuan Xi, Tuanjie Li, Yikai Xu, Wenjun Xiong, Wei Wang, Guoxin Li, Ruijiang Li
 </div>
