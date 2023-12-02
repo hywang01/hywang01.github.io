@@ -19,7 +19,7 @@ redirect_from:
 
 My name is Hongyu Wang, now a Ph.D. student at School of Computer Science and Engineering, Northwestern Polytechnical University under the supervision of Prof. Yong Xia. I graduated from School of Mathematics and Statistics, Northwestern Polytechnical University with a bachelor’s degree of science.
 
-My research interest includes medical image analysis, machine learning and deep learning for radiological imaging, computational histopathology, and single-cell and spatial multi-omic. I enjoy studying medical and biological problems with efficient-computational methods.
+My research interest includes medical image analysis, machine learning and deep learning for radiological imaging, computational histopathology, and single-cell and spatial multi-omics. I enjoy studying medical and biological problems with efficient-computational methods.
 
 [//]: # # 🔥 News
 [//]: # - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -89,7 +89,7 @@ Yuming Jiang, Kangneng Zhou, Zepang Sun, **Hongyu Wang**, Jingjing Xie, Taojun Z
 
 - [Robust Stochastic Neural Ensemble Learning with Noisy Labels for Thoracic Disease Classification](https://github.com/hywang01/SNEL), **Hongyu Wang**, Hengfei Cui and Yong Xia, **IEEE-TMI 2023, major revision**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021-2023*: Innovation Foundation for Doctor Dissertation of Northwestern Polytechnical University (Key projects).
@@ -101,7 +101,7 @@ Yuming Jiang, Kangneng Zhou, Zepang Sun, **Hongyu Wang**, Jingjing Xie, Taojun Z
 # 🎓 Educations
 - *2021.07 - 2022.04: Visiting Student & Associate Researcher*, Department of Dermatology, Icahn School of Medicine at Mount Sinai. 
 - *2020.01 - 2021.06: Visiting Student*, Department of Radiation Oncology, Stanford University School of Medicine. 
-- *2017.09 - Present: Ph.D. Candidate*, School of Computer Science and Engineering, Northwestern Polytechnical University. 
+- *2017.09 - 2023.12: Ph.D.*, School of Computer Science and Engineering, Northwestern Polytechnical University. 
 - *2013.09 - 2017.06: B.S. Degree*, School of Mathematics and Statistics, Northwestern Polytechnical University. 
 
 [//]: # 💬 Invited Talks
@@ -116,7 +116,6 @@ Yuming Jiang, Kangneng Zhou, Zepang Sun, **Hongyu Wang**, Jingjing Xie, Taojun Z
 	- MICCAI 2019-2023
 
 - Journal Reviews
-	- Medical Image Analysis (MEDIA)
-	- IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI)
+	- IEEE Journal of Biomedical and Health Informatics
 	- Biomedical Signal Processing and Control
 	- Frontiers in Oncology
