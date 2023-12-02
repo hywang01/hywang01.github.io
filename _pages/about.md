@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Hongyu Wang, now a Ph.D. student at School of Computer Science and Engineering, Northwestern Polytechnical University under the supervision of Prof. Yong Xia. I graduated from School of Mathematics and Statistics, Northwestern Polytechnical University with a bachelor’s degree of science.
+My name is Hongyu Wang, now a Ph.D. student at School of Computer Science and Engineering, Northwestern Polytechnical University under the supervision of Prof. Yong Xia(https://teacher.nwpu.edu.cn/yongxia.html). I graduated from School of Mathematics and Statistics, Northwestern Polytechnical University with a bachelor’s degree of science.
 
 My research interest includes medical image analysis, machine learning and deep learning for radiological imaging, computational histopathology, and single-cell and spatial multi-omics. I enjoy studying medical and biological problems with efficient-computational methods.
 
@@ -64,7 +64,7 @@ Yuming Jiang, Zhicheng Zhang, Qingyu Yuan, Wei Wang, **Hongyu Wang**, Tuanjie Li
 
 [Domain-ensemble learning with cross-domain mixup for thoracic disease classification in unseen domains](https://www.sciencedirect.com/science/article/abs/pii/S1746809422009429)
 
-Biomedical Signal Processing and Control, 81: 104488, 2023. [\[**Code**\]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+Biomedical Signal Processing and Control, 81: 104488, 2023. [\[**Code**\]](https://github.com/hywang01)
 
 </div>
 </div>
@@ -89,7 +89,7 @@ Yuming Jiang, Kangneng Zhou, Zepang Sun, **Hongyu Wang**, Jingjing Xie, Taojun Z
 
 - [Robust Stochastic Neural Ensemble Learning with Noisy Labels for Thoracic Disease Classification](https://github.com/hywang01/SNEL), **Hongyu Wang**, Hengfei Cui and Yong Xia, **IEEE-TMI 2023, major revision**
 
-# - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[//]: # - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021-2023*: Innovation Foundation for Doctor Dissertation of Northwestern Polytechnical University (Key projects).
