@@ -27,7 +27,7 @@ My research interest includes medical image analysis, machine learning and deep 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-JBHI 2020</div><img src='images/thoraxnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-JBHI 2020</div><img src='images/ThoraxnetCover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Thorax-Net: An Attention Regularized Deep Neural Network for Classification of Thoracic Diseases on Chest Radiography](https://ieeexplore.ieee.org/document/8760405)
