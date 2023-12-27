@@ -70,7 +70,7 @@ Yuming Jiang, Zhicheng Zhang, Qingyu Yuan, Wei Wang, **Hongyu Wang**, Tuanjie Li
 
 **Hongyu Wang**, Yong Xia
 
-*Biomedical Signal Processing and Control 2023* [\[**Code**\]](https://github.com/hywang01)
+*Biomedical Signal Processing and Control 2023* [\[**Code**\]](https://github.com/hywang01/DELCOM)
 
 </div>
 </div>
