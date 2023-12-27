@@ -100,7 +100,7 @@ Yuming Jiang, Kangneng Zhou, Zepang Sun, **Hongyu Wang**, Jingjing Xie, Taojun Z
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMI 2023</div><img src='images/NL_concept.png' alt="sym" width="30%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMI 2023</div><img src='images/SNEL.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust Stochastic Neural Ensemble Learning with Noisy Labels for Thoracic Disease Classification](https://github.com/hywang01/SNEL)
