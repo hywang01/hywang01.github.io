@@ -27,38 +27,40 @@ My research interest includes medical image analysis, machine learning and deep 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-JBHI 2020</div><img src='images/ThoraxnetCover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMI 2023</div><img src='images/SNEL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Thorax-Net: An Attention Regularized Deep Neural Network for Classification of Thoracic Diseases on Chest Radiography](https://ieeexplore.ieee.org/document/8760405)
+[Robust Stochastic Neural Ensemble Learning with Noisy Labels for Thoracic Disease Classification](https://github.com/hywang01/SNEL)
 
-**Hongyu Wang**, Haozhe Jia, Le Lu, Yong Xia
+**Hongyu Wang**, Jiang He, Hengfei Cui, Bo Yuan and Yong Xia 
 
-*IEEE Journal of Biomedical and Health Informatics 2020*
+*IEEE Transactions on Medical Imaging 2023, minor revision*
+
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEDIA 2021</div><img src='images/A3Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Medicine 2023</div><img src='images/Cell_RM_cover.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Triple Attention Learning for Classification of 14 Thoracic Diseases Using Chest Radiograph](https://www.sciencedirect.com/science/article/abs/pii/S1361841520302103)
+[Non-invasive tumor microenvironment evaluation and treatment response prediction in gastric cancer using deep learning radiomics](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00299-9)
 
-**Hongyu Wang**, Shanshan Wang, Zibo Qin, Yanning Zhang, Ruijiang Li, and Yong Xia
+Yuming Jiang, Kangneng Zhou, Zepang Sun, **Hongyu Wang**, Jingjing Xie, Taojun Zhang, Shengtian Sang, Md Tauhidul Islam, Chuanli Chen, Qingyu Yuan, Sujuan Xi, Tuanjie Li, Yikai Xu, Wenjun Xiong, Wei Wang, Guoxin Li, Ruijiang Li
 
-*Medical Image Analysis 2021*
+*Cell Reports Medicine 2023*
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lancet Digital Health 2022</div><img src='images/LancetDH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JID 2023</div><div align="center"><img src='images/JID2023.png' alt="sym" width="100%" align="middle"></div></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Predicting peritoneal recurrence and disease-free survival from CT images in gastric cancer with multitask deep learning: a retrospective study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00040-1/fulltext)
+[Single-cell and Spatial Transcriptomic Analysis of Human Skin Delineates Intercellular Communication and Pathogenic Cells](https://www.jidonline.org/article/S0022-202X(23)02040-7/fulltext)
 
-Yuming Jiang, Zhicheng Zhang, Qingyu Yuan, Wei Wang, **Hongyu Wang**, Tuanjie Li, Weicai Huang, Jingjing Xie, Chuanli Chen, Zepang Sun, Jiang Yu, Yikai Xu, George A Poultsides, Lei Xing, Zhiwei Zhou, Guoxin Li, Ruijiang Li
+Kim Thrane, Mårten C G Winge, **Hongyu Wang**, Larry Chen, Margaret G Guo, Alma Andersson, Xesús M Abalo, Xue Yang, Daniel S Kim, Sophia K Longo, Brian Y Soong, Jordan M Meyers, David L Reynolds, Aaron McGeever, Deniz Demircioglu, Dan Hasson, Reza Mirzazadeh, Adam J Rubin, Gordon H Bae, Jim Karkanias, Kerri Rieger, Joakim Lundeberg, Andrew L Ji 
 
-*Lancet Digital Health 2022*
+*Journal of Investigative Dermatology 2023*
+
 </div>
 </div>
 
@@ -76,43 +78,45 @@ Yuming Jiang, Zhicheng Zhang, Qingyu Yuan, Wei Wang, **Hongyu Wang**, Tuanjie Li
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JID 2023</div><div align="center"><img src='images/JID2023.png' alt="sym" width="100%" align="middle"></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lancet Digital Health 2022</div><img src='images/LancetDH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Single-cell and Spatial Transcriptomic Analysis of Human Skin Delineates Intercellular Communication and Pathogenic Cells](https://www.jidonline.org/article/S0022-202X(23)02040-7/fulltext)
+[Predicting peritoneal recurrence and disease-free survival from CT images in gastric cancer with multitask deep learning: a retrospective study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00040-1/fulltext)
 
-Kim Thrane, Mårten C G Winge, **Hongyu Wang**, Larry Chen, Margaret G Guo, Alma Andersson, Xesús M Abalo, Xue Yang, Daniel S Kim, Sophia K Longo, Brian Y Soong, Jordan M Meyers, David L Reynolds, Aaron McGeever, Deniz Demircioglu, Dan Hasson, Reza Mirzazadeh, Adam J Rubin, Gordon H Bae, Jim Karkanias, Kerri Rieger, Joakim Lundeberg, Andrew L Ji 
+Yuming Jiang, Zhicheng Zhang, Qingyu Yuan, Wei Wang, **Hongyu Wang**, Tuanjie Li, Weicai Huang, Jingjing Xie, Chuanli Chen, Zepang Sun, Jiang Yu, Yikai Xu, George A Poultsides, Lei Xing, Zhiwei Zhou, Guoxin Li, Ruijiang Li
 
-*Journal of Investigative Dermatology 2023*
-
+*Lancet Digital Health 2022*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Medicine 2023</div><img src='images/Cell_RM_cover.jpg' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEDIA 2021</div><img src='images/A3Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Non-invasive tumor microenvironment evaluation and treatment response prediction in gastric cancer using deep learning radiomics](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00299-9)
+[Triple Attention Learning for Classification of 14 Thoracic Diseases Using Chest Radiograph](https://www.sciencedirect.com/science/article/abs/pii/S1361841520302103)
 
-Yuming Jiang, Kangneng Zhou, Zepang Sun, **Hongyu Wang**, Jingjing Xie, Taojun Zhang, Shengtian Sang, Md Tauhidul Islam, Chuanli Chen, Qingyu Yuan, Sujuan Xi, Tuanjie Li, Yikai Xu, Wenjun Xiong, Wei Wang, Guoxin Li, Ruijiang Li
+**Hongyu Wang**, Shanshan Wang, Zibo Qin, Yanning Zhang, Ruijiang Li, and Yong Xia
 
-*Cell Reports Medicine 2023*
+*Medical Image Analysis 2021*
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMI 2023</div><img src='images/SNEL.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-JBHI 2020</div><img src='images/ThoraxnetCover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Stochastic Neural Ensemble Learning with Noisy Labels for Thoracic Disease Classification](https://github.com/hywang01/SNEL)
+[Thorax-Net: An Attention Regularized Deep Neural Network for Classification of Thoracic Diseases on Chest Radiography](https://ieeexplore.ieee.org/document/8760405)
 
-**Hongyu Wang**, Jiang He, Hengfei Cui, Bo Yuan and Yong Xia 
+**Hongyu Wang**, Haozhe Jia, Le Lu, Yong Xia
 
-*IEEE Transactions on Medical Imaging 2023, minor revision*
-
+*IEEE Journal of Biomedical and Health Informatics 2020*
 </div>
 </div>
+
 
 [//]: # - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
 
 # 🎖 Honors and Awards
 - *2021-2023*: Innovation Foundation for Doctor Dissertation of Northwestern Polytechnical University (Key projects).
