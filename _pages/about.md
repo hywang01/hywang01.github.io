@@ -27,14 +27,14 @@ My research interest includes medical image analysis, machine learning and deep 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMI 2023</div><img src='images/SNEL.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMI 2024</div><img src='images/SNEL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Stochastic Neural Ensemble Learning with Noisy Labels for Thoracic Disease Classification](https://github.com/hywang01/SNEL)
+[Robust Stochastic Neural Ensemble Learning with Noisy Labels for Thoracic Disease Classification](https://ieeexplore.ieee.org/document/10413624)
 
 **Hongyu Wang**, Jiang He, Hengfei Cui, Bo Yuan and Yong Xia 
 
-*IEEE Transactions on Medical Imaging 2023, minor revision*
+*IEEE Transactions on Medical Imaging 2024, Early Access*
 
 </div>
 </div>
