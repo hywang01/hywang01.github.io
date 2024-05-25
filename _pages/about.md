@@ -144,5 +144,8 @@ Yuming Jiang, Zhicheng Zhang, Qingyu Yuan, Wei Wang, **Hongyu Wang**, Tuanjie Li
 
 - Journal Reviews
 	- IEEE Journal of Biomedical and Health Informatics
-	- Biomedical Signal Processing and Control
 	- Frontiers in Oncology
+	- Computers in Biology and Medicine
+	- Computerized Medical Imaging and Graphics
+	- Biomedical Signal Processing and Control
+	- Scientific Reports
