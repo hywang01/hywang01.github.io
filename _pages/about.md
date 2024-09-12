@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Hongyu Wang, now a postdoc at the Department of Computer Science and Engineering, The Chinese University of Hong Kong under the supervision of Prof. [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/). I received my Ph.D. student at School of Computer Science, Northwestern Polytechnical University under the supervision of Prof. [Yong Xia](https://teacher.nwpu.edu.cn/yongxia.html). I graduated from School of Mathematics and Statistics, Northwestern Polytechnical University with a bachelor’s degree of science.
+My name is Hongyu Wang, now a postdoc at the Department of Computer Science and Engineering, The Chinese University of Hong Kong under the supervision of Prof. [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/). I received my Ph.D. in Computer Science at School of Computer Science, Northwestern Polytechnical University under the supervision of Prof. [Yong Xia](https://teacher.nwpu.edu.cn/yongxia.html). I graduated from School of Mathematics and Statistics, Northwestern Polytechnical University with a bachelor’s degree of science.
 
 My research interest includes medical image analysis, machine learning and deep learning for radiological imaging, computational histopathology, single-cell and spatial multi-omics, and surgical data science. I enjoy studying medical and biological problems with efficient-computational methods.
 
