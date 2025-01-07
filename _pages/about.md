@@ -126,10 +126,10 @@ Yuming Jiang, Zhicheng Zhang, Qingyu Yuan, Wei Wang, **Hongyu Wang**, Tuanjie Li
 - *2017*: Northwestern Polytechnical University Excellent Bachelor’s Thesis.
 
 # 🎓 Educations
-- *2021.07 - 2022.04: Visiting Student & Associate Researcher*, Department of Dermatology, Icahn School of Medicine at Mount Sinai. 
-- *2020.01 - 2021.06: Visiting Student*, Department of Radiation Oncology, Stanford University School of Medicine. 
-- *2017.09 - 2023.12: Ph.D.*, School of Computer Science and Engineering, Northwestern Polytechnical University. 
-- *2013.09 - 2017.06: B.S. Degree*, School of Mathematics and Statistics, Northwestern Polytechnical University. 
+- *2021.07 - 2022.04: Visiting Student & Associate Researcher*, Department of Dermatology, Icahn School of Medicine at Mount Sinai. Supervisor: Prof. [Andrew Ji](https://labs.icahn.mssm.edu/jilab/)
+- *2020.01 - 2021.06: Visiting Student*, Department of Radiation Oncology, Stanford University School of Medicine. Supervisor: Prof. [Ruijiang Li](https://med.stanford.edu/lilab)
+- *2017.09 - 2023.12: Ph.D.*, School of Computer Science and Engineering, Northwestern Polytechnical University. Supervisor: Prof. [Yong Xia](https://teacher.nwpu.edu.cn/yongxia.html)
+- *2013.09 - 2017.06: B.S. Degree*, School of Mathematics and Statistics, Northwestern Polytechnical University. Supervisor: Prof. [Yong Xia](https://teacher.nwpu.edu.cn/yongxia.html)
 
 [//]: # 💬 Invited Talks
 [//]: - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
