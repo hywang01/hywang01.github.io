@@ -27,6 +27,32 @@ My research interest includes medical image analysis, machine learning and deep 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEDIA 2025</div><img src='images/IDPOE.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning dissection trajectories from expert surgical videos via imitation learning with equivariant diffusion](https://www.sciencedirect.com/science/article/abs/pii/S136184152500146X)
+
+**Hongyu Wang**, Yonghao Long, Yueyao Chen, Hon-Chi Yip, Markus Scheppach, Philip Wai-Yan Chiu, Yeung Yam, Helen Mei-Ling Meng, Qi Dou
+
+*Medical Image Analysis 2025*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Nano 2025</div><img src='images/NanoSafari.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Generative Artificial Intelligence Copilot for Biomedical Nanoengineering](https://pubs.acs.org/doi/abs/10.1021/acsnano.5c03454)
+
+Yifan Wang<sup>†</sup>, Haitao Song<sup>†</sup>, Yue Teng<sup>†</sup>, Guan Huang<sup>†</sup>, Jingzhe Qian<sup>†</sup>, **Hongyu Wang<sup>†</sup>**, Shiyan Dong, JongHoon Ha, Yifan Ma, Mengyu Chang, Seong Dong Jeong, Weiye Deng, Benjamin R Schrank, Adam Grippin, Annette Wu, Jared L Edwards, Yixiang Zhang, Yuanyuan Lin, Wilson Poon, Stefan Wilhelm, Ye Bi, Lesheng Teng, Zikai Wang, Betty YS Kim, Wen Jiang
+
+*ACS Nano 2025* [\[**Project**\]](https://nanosafari.com/)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMI 2024</div><img src='images/SNEL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -34,7 +60,7 @@ My research interest includes medical image analysis, machine learning and deep 
 
 **Hongyu Wang**, Jiang He, Hengfei Cui, Bo Yuan and Yong Xia 
 
-*IEEE Transactions on Medical Imaging 2024, Early Access*
+*IEEE Transactions on Medical Imaging 2024*
 
 </div>
 </div>
