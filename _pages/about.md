@@ -52,6 +52,18 @@ Yifan Wang<sup>†</sup>, Haitao Song<sup>†</sup>, Yue Teng<sup>†</sup>, Gua
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Data 2025</div><img src='images/LapGCKVAD.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic key vascular anatomy dataset for D2 lymph node dissection during laparoscopic gastric cancer surgery](https://www.nature.com/articles/s41597-025-05255-7)
+
+Longfei Gou, Haolin Wu, Chang Chen, Jiayu Lai, Hua Yang, Yuqing Qiu, Boer Su, **Hongyu Wang**, Bingyu Zhao, Xin Ye, Jinming Li, Xiaobing Bao, Guoxin Li, Jiang Yu, Yanfeng Hu, Qi Dou, Hao Chen
+
+*Scientific Data 2025*
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMI 2024</div><img src='images/SNEL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
