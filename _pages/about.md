@@ -59,7 +59,7 @@ Yifan Wang<sup>†</sup>, Haitao Song<sup>†</sup>, Yue Teng<sup>†</sup>, Gua
 
 Longfei Gou, Haolin Wu, Chang Chen, Jiayu Lai, Hua Yang, Yuqing Qiu, Boer Su, **Hongyu Wang**, Bingyu Zhao, Xin Ye, Jinming Li, Xiaobing Bao, Guoxin Li, Jiang Yu, Yanfeng Hu, Qi Dou, Hao Chen
 
-*Scientific Data 2025*
+*Scientific Data 2025* [\[**Dataset**\]](https://doi.org/10.57760/sciencedb.20852)
 
 </div>
 </div>
